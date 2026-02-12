@@ -1,7 +1,7 @@
 local Fatality = loadstring(game:HttpGet("https://pastebin.com/Pr2BQxzj"))();
 local Notification = Pelican:CreateNotifier();
 
-Fatality:Loader({
+Pelican:Loader({
 	Name = "PELICAN",
 	Duration = 4
 });
